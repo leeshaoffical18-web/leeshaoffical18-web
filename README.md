@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**leeshaoffical18-web/leeshaoffical18-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Leesha!
 
-Here are some ideas to get you started:
+### B.Tech CSE Student | Data Analytics Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in exploring data, solving problems, and turning raw data into meaningful insights.
+
+### 🛠️ Skills
+
+- **Advanced Excel** — Data Cleaning, Pivot Tables, Dashboards
+- **PostgreSQL** — SQL Queries, Joins, Aggregations, Window Functions
+- **Power BI** — Data Visualization, Interactive Dashboards
+
+### 🌱 Currently Learning
+
+- Python Programming
+- Python for Data Analysis
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leesha-7bbb17416/)
